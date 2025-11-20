@@ -1,11 +1,12 @@
 {
   "capacity": 10,
   "shifts": {
-    "shift-1": { "id": "shift-1", "label": "Shift 1", "participants": [] },
-    "shift-2": { "id": "shift-2", "label": "Shift 2", "participants": [] },
-    "shift-3": { "id": "shift-3", "label": "Shift 3", "participants": [] },
-    "shift-4": { "id": "shift-4", "label": "Shift 4", "participants": [] },
-    "shift-5": { "id": "shift-5", "label": "Shift 5", "participants": [] },
-    "shift-6": { "id": "shift-6", "label": "Shift 6", "participants": [] }
+    "shift-1": { "id": "shift-1", "Escala 22-Jan-2026 à 22-mar-2026": "Shift 1", "participants": [] },
+    "shift-2": { "id": "shift-2", "Escala 22-mar-2026 à 22-mai-2026": "Shift 2", "participants": [] },
+    "shift-3": { "id": "shift-3", "Escala 22-mai-2026 à 22-jul-2026": "Shift 3", "participants": [] },
+    "shift-4": { "id": "shift-4", "Escala 22-Jul-2026 à 22-set-2026": "Shift 4", "participants": [] },
+    "shift-5": { "id": "shift-5", "Escala 22-set-2026 à 22-nov-2026": "Shift 5", "participants": [] },
+    "shift-6": { "id": "shift-6", "Escala 22-nov-2026 à 22-jan-2027": "Shift 6", "participants": [] }
   }
+
 }
