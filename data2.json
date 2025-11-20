@@ -1,0 +1,11 @@
+{
+  "capacity": 10,
+  "shifts": {
+    "shift-1": { "id": "shift-1", "label": "Escala 22-Jan-2026 à 22-mar-2026", "participants": [] },
+    "shift-2": { "id": "shift-2", "label": "Escala 22-mar-2026 à 22-mai-2026", "participants": [] },
+    "shift-3": { "id": "shift-3", "label": "Escala 22-mai-2026 à 22-jul-2026", "participants": [] },
+    "shift-4": { "id": "shift-4", "label": "Escala 22-Jul-2026 à 22-set-2026", "participants": [] },
+    "shift-5": { "id": "shift-5", "label": "Escala 22-set-2026 à 22-nov-2026", "participants": [] },
+    "shift-6": { "id": "shift-6", "label": "Escala 22-nov-2026 à 22-jan-2027", "participants": [] }
+  }
+}
